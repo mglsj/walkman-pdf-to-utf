@@ -14,9 +14,10 @@ drive api, that is required to be enabled in the google cloud console
 Processing assumes that the hindi text is in "Arial" font in docx, as it is the
 default fallback (used by GDrive) when converting walkman pdf to docx.
 
-> !NOTE If you don't have a google cloud account, you can manually convert the
-> pdf to docx using google drive and then run the script. *requires modification
-> in the main.py
+> [!NOTE]
+> If you don't have a google cloud account, you can manually convert the pdf to
+> docx using google drive and then run the script. *requires modification in the
+> main.py
 
 ## Google Cloud Console steps
 
