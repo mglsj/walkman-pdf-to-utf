@@ -39,3 +39,4 @@ or
 ```bash
 python3 main.py
 ```
+![image](https://github.com/user-attachments/assets/1dd1a766-ce64-4f01-9292-5950a431fccd)
