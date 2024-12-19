@@ -1,6 +1,6 @@
-# Walkman Chanikya to UTF-8 Converter
+# Walkman Chanakya to UTF-8 Converter
 
-NCERT Hindi books are encoded in Walkman Chanikya font. This script converts the
+NCERT Hindi books are encoded in Walkman Chanakya font. This script converts the
 text to UTF-8 encoding.
 
 Steps to convert:
